@@ -24,8 +24,8 @@ h1 {
     font-family:'calibri;
 }
 p {
-    font-size: 12px;
-    line-height: 15px;
+    font-size: 1.5em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
@@ -34,13 +34,11 @@ footer {
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
+    margin: 40px auto 40px; 
    
 }
 
 ul.posts li {
     list-style: none;
 }
-ul {
-  list-style-image: url('https://github.com/ShilpaJagadeeshappa/ShilpaJagadeeshappa.github.io/blob/master/image.jpg');
-}
+
