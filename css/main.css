@@ -41,3 +41,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+ul {
+  list-style-image: url('image.jpeg');
+}
