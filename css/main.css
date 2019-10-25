@@ -47,3 +47,6 @@ img {
 div {
   clear: left;
 }
+div.b {
+  		font-size: large;
+}
