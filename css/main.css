@@ -44,4 +44,6 @@ ul.posts li {
 img {
   float: left;
 }
-
+div {
+  clear: left;
+}
