@@ -20,12 +20,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 5em;
     font-family:'calibri;
 }
 p {
-    font-size: 1em;
-    line-height: 1em;
+    font-size: 3em;
+    line-height: 3em;
     color: #333;
 }
 footer {
